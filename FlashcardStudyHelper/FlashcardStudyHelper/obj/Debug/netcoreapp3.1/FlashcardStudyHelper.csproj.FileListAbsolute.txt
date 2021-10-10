@@ -1,0 +1,28 @@
+C:\Users\Student\workspace\Flashcard Study Helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.csproj.AssemblyReference.cache
+C:\Users\Student\workspace\Flashcard Study Helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\Flashcard Study Helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\Flashcard Study Helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.AssemblyInfo.cs
+C:\Users\Student\workspace\Flashcard Study Helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\Flashcard Study Helper\FlashcardStudyHelper\FlashcardStudyHelper\bin\Debug\netcoreapp3.1\FlashcardStudyHelper.exe
+C:\Users\Student\workspace\Flashcard Study Helper\FlashcardStudyHelper\FlashcardStudyHelper\bin\Debug\netcoreapp3.1\FlashcardStudyHelper.deps.json
+C:\Users\Student\workspace\Flashcard Study Helper\FlashcardStudyHelper\FlashcardStudyHelper\bin\Debug\netcoreapp3.1\FlashcardStudyHelper.runtimeconfig.json
+C:\Users\Student\workspace\Flashcard Study Helper\FlashcardStudyHelper\FlashcardStudyHelper\bin\Debug\netcoreapp3.1\FlashcardStudyHelper.runtimeconfig.dev.json
+C:\Users\Student\workspace\Flashcard Study Helper\FlashcardStudyHelper\FlashcardStudyHelper\bin\Debug\netcoreapp3.1\FlashcardStudyHelper.dll
+C:\Users\Student\workspace\Flashcard Study Helper\FlashcardStudyHelper\FlashcardStudyHelper\bin\Debug\netcoreapp3.1\FlashcardStudyHelper.pdb
+C:\Users\Student\workspace\Flashcard Study Helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.dll
+C:\Users\Student\workspace\Flashcard Study Helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.pdb
+C:\Users\Student\workspace\Flashcard Study Helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.genruntimeconfig.cache
+C:\Users\Student\workspace\flashcard-study-helper\FlashcardStudyHelper\FlashcardStudyHelper\bin\Debug\netcoreapp3.1\FlashcardStudyHelper.exe
+C:\Users\Student\workspace\flashcard-study-helper\FlashcardStudyHelper\FlashcardStudyHelper\bin\Debug\netcoreapp3.1\FlashcardStudyHelper.deps.json
+C:\Users\Student\workspace\flashcard-study-helper\FlashcardStudyHelper\FlashcardStudyHelper\bin\Debug\netcoreapp3.1\FlashcardStudyHelper.runtimeconfig.json
+C:\Users\Student\workspace\flashcard-study-helper\FlashcardStudyHelper\FlashcardStudyHelper\bin\Debug\netcoreapp3.1\FlashcardStudyHelper.runtimeconfig.dev.json
+C:\Users\Student\workspace\flashcard-study-helper\FlashcardStudyHelper\FlashcardStudyHelper\bin\Debug\netcoreapp3.1\FlashcardStudyHelper.dll
+C:\Users\Student\workspace\flashcard-study-helper\FlashcardStudyHelper\FlashcardStudyHelper\bin\Debug\netcoreapp3.1\FlashcardStudyHelper.pdb
+C:\Users\Student\workspace\flashcard-study-helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.csproj.AssemblyReference.cache
+C:\Users\Student\workspace\flashcard-study-helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\flashcard-study-helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\flashcard-study-helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.AssemblyInfo.cs
+C:\Users\Student\workspace\flashcard-study-helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\flashcard-study-helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.dll
+C:\Users\Student\workspace\flashcard-study-helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.pdb
+C:\Users\Student\workspace\flashcard-study-helper\FlashcardStudyHelper\FlashcardStudyHelper\obj\Debug\netcoreapp3.1\FlashcardStudyHelper.genruntimeconfig.cache
